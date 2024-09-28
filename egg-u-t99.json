@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2024-09-24T04:00:31-05:00",
+    "exported_at": "2024-09-27T22:23:31-05:00",
     "name": "UT99",
     "author": "ryanw@texedo.net",
     "description": null,
@@ -16,7 +16,7 @@
     "startup": ".\/start.sh",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"UDP recvfrom error: 11 from 0.0.0.0:0\"\r\n}",
+        "startup": "{\r\n    \"done\": \"Game engine initialized\"\r\n}",
         "logs": "{}",
         "stop": "^C"
     },
